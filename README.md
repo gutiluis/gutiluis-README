@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on dba :B
 - 📫 How to reach me gutierrez.luis@icloud.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: n.n
+- ⚡ Fun fact: newbie n.n
 
 <!---
 gutiluis/gutiluis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
