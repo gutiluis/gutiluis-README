@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gutiluis
 - 👀 I’m interested in backend.
-- 🌱 I’m currently learning python, SQL(alchemy), bash, linux, javascript ...
+- 🌱 I’m currently learning \ninterested python, SQL(alchemy), bash, linux, javascript, ruby, OOP..xD...
 - 💞️ I’m looking to collaborate on dba :B
 - 📫 How to reach me gutierrez.luis@icloud.com
 - 😄 Pronouns: he/him
