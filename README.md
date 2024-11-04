@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gutiluis
 - I’m interested in backend.
-- I’m currently learning-interested in python, SQL(alchemy), bash, linux, javascript, ruby, django, OOP...
-- I’m looking to collaborate on dba :B
+- I’m currently developing: python, bash, zsh, flake8, SQL, with a linux approach. 
+- I’m looking to collaborate in dba, scripts, django, sqlalchemy, javascript, pentesting,  :B
 - How to reach me gutierrez.luis@icloud.com
 - Pronouns: he/him
 - Fun fact:  n.n
